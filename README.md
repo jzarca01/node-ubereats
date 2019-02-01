@@ -32,3 +32,9 @@ uber.getRestaurants();
 ```javascript
 uber.searchRestaurants((searchQuery = 'Indian'));
 ```
+
+### Get store details
+
+```javascript
+uber.getStoreDetails(storeUuid);
+```

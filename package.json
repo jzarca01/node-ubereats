@@ -1,7 +1,7 @@
 {
   "name": "node-ubereats",
   "description": "An API for Uber Eats",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "directories": {
     "lib": "lib"
